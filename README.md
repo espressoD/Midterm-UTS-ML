@@ -8,8 +8,8 @@ Tugas ini dibagi menjadi 3 asesmen yang dikerjakan dalam branch/folder terpisah.
 | Assessment | Topik | Jenis Masalah | Branch/Link |
 | :--- | :--- | :--- | :--- |
 | **Assessment 1** | **Fraud Detection** | Classification | [Lihat Detail di Branch Assesment1](https://github.com/espressoD/Midterm-UTS-ML/tree/Assesment1) |
-| **Assessment 2** | **Song Year Prediction** | Regression | [Lihat Detail di Branch Assesment2](./Assesment2) |
-| **Assessment 3** | **Customer Segmentation** | Clustering | [Lihat Detail di Branch Assesment3](./Assesment3) |
+| **Assessment 2** | **Song Year Prediction** | Regression | [Lihat Detail di Branch Assesment2](https://github.com/espressoD/Midterm-UTS-ML/tree/Assesment2) |
+| **Assessment 3** | **Customer Segmentation** | Clustering | [Lihat Detail di Branch Assesment3](https://github.com/espressoD/Midterm-UTS-ML/tree/Assesment3) |
 
 ## 📝 Ringkasan Pengerjaan
 
