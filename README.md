@@ -23,7 +23,7 @@ Model dievaluasi menggunakan validation set (20% data).
 
 | Metrik | Skor |
 | :--- | :--- |
-| **ROC-AUC** | **0.85** (Contoh, sesuaikan dengan hasilmu) |
+| **ROC-AUC** | **0.85** |
 | **Precision/Recall** | Lihat Confusion Matrix di Notebook |
 
 **Analisis:**
